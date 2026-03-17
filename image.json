@@ -1,0 +1,7 @@
+{
+  "prompt": "A long horizontal woven textile or tapestry fills the entire frame, shot close up as if it is ancient and sacred. The fabric is composed of 48 vertical strips of cloth sewn together in a continuous band. The leftmost strip is a faded, ghostly pale blue — almost bleached and forgotten. Moving rightward, the strips transition slowly through dusty yellow, then warm amber, then deep ochre, then a fierce burnt sienna, and finally at the far right edge a smoldering dark red-orange. The texture is rough and organic — linen, silk, aged cotton — with visible wear and fraying at the edges. The fabric is draped slightly, with soft shadow and depth. The light falls from the upper left, picking out the texture of individual threads. The overall mood is of something irreversible — an archive of warmth that never stopped. No text, no numbers, no labels, no charts, no graphs, no thermometers, no globes, no fire. Photorealistic. 8K. Shot on medium format film.",
+  "model": "DALL-E 3",
+  "dataset_name": "NASA GISS Surface Temperature Analysis (GISTEMP v4)",
+  "dataset_url": "https://data.giss.nasa.gov/gistemp/",
+  "insight": "Every year since 1977 has been warmer than the 20th-century average — 48 consecutive years with no return to normal."
+}
